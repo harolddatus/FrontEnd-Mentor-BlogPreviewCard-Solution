@@ -30,6 +30,7 @@ body {
   padding: 15px;
   background-color: var(--white);
   margin-bottom: 10px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
 }
 
 .preview-card__img {
